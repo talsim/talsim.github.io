@@ -7,7 +7,7 @@ I have a “think like a hacker” mindset, I've been programming since age 10, 
 I also participate in CTF events, where I gained experience with analyzing and reverse engineering binaries as well as finding vulnerabilities.
 
 # CTF Write-ups
-I document all CTF Experience here - https://github.com/talsim/CTFs.
+I document all CTF Experience [here](https://github.com/talsim/CTFs).
 * [pingCTF 2023 dangle-me pwn challenge write-up](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
 
