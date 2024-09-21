@@ -23,7 +23,7 @@ My goal is to continue pushing the boundaries in **cybersecurity** and contribut
 * Implemented persistence through Windows Registry modifications 🗝️
 
 
-### 🖥️ [Implemented Linux shell](github.com/talsim/Linux-Shell)
+### 🖥️ [Implemented Linux shell](https://github.com/talsim/Linux-Shell)
 * Custom-built shell in **C**.
 * A deep dive into **Linux system calls**.
 
