@@ -1,4 +1,4 @@
-# About Me 🧑‍💻
+# 🧑‍💻 About Me 
 
 Hey there! I'm **Tal Simhayev** 👋
 
@@ -45,7 +45,7 @@ I document all my CTF Experience [here](https://github.com/talsim/CTFs).   There
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
-* Crafted an **arbitrary write exploit** (write-what-where condition) to **inject data** to memory and bypass **DEP protection mechanism**
+* Crafted an **arbitrary write exploit** (write-what-where condition) to **inject data** to memory and bypass **DEP** protection mechanism
 
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
  
