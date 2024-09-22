@@ -31,9 +31,11 @@ My goal is to continue pushing the boundaries in **cybersecurity** and contribut
 [HashMap](https://github.com/talsim/c-linked-list) and [LinkedList](https://github.com/talsim/Cpp-HashMap) implementations in C/C++
 
 # CTF Write-ups & Blogs
-I document all my CTF Experience [here](https://github.com/talsim/CTFs).
-* [pingCTF 2023 dangle-me pwn challenge write-up](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me)
-* I uploaded a blog to Medium: [ROP Emporium write4 - By Tal Simhayev](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec) - Manipulating gadgets to construct an arbitrary write (write-what-where condition) to process memory.
+I document all my CTF Experience [here](https://github.com/talsim/CTFs). There, I've gained hands-on experience in reverse engineering, binary exploitation, and vulnerability discovery.  
+### [pingCTF 2023 dangle-me pwn challenge write-up](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me)
+* Developed a working exploit for a memory corruption vulnerability
+
+### I uploaded a blog to Medium: [ROP Emporium write4 - By Tal Simhayev](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec) - Manipulating gadgets to construct an arbitrary write (write-what-where condition) to process memory.
  
 # Contact
 
