@@ -11,7 +11,8 @@ I've been programming since age 10, and over the years, I’ve developed a stron
 
 I've also participated in lots of CTF events, mostly focused in categories like **binary exploitation** and **reverse engineering**. In these challenges I acquired hands-on experience and abilities to think critically under pressure, developing exploits that bypass modern defenses like **ASLR**, **DEP**, and **PIE**.  
 
-🔒**My goal** is to continue pushing the boundaries in **cybersecurity** and contribute to safer systems worldwide.
+🔒 **My goal** is to continue pushing the boundaries in **cybersecurity** and contribute to safer systems worldwide.
+
 ---
 
 # Projects
