@@ -25,7 +25,7 @@ My goal is to continue pushing the boundaries in **cybersecurity** and contribut
 
 ### 🖥️ [Implemented Linux shell](https://github.com/talsim/Linux-Shell)
 * Custom-built shell in **C**.
-* A deep dive into **Linux system calls**.
+* A deep dive into **Linux Internals**.
 
 
 [HashMap](https://github.com/talsim/c-linked-list) and [LinkedList](https://github.com/talsim/Cpp-HashMap) implementations in C/C++
