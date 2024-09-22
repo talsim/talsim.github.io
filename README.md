@@ -36,8 +36,9 @@ I've also participated in lots of CTF events, mostly focused in categories like 
 * A deep dive into **Linux Internals**.
 
 
-### 🔢 [HashMap & LinkedList in C/C++](https://github.com/talsim/c-linked-list)
-- Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management.
+### 🔢 [HashMap](https://github.com/talsim/Cpp-HashMap)&[LinkedList](https://github.com/talsim/c-linked-list) in C/C++
+
+* Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management.
 
 
 # CTF Write-ups & Blogs
