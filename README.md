@@ -13,10 +13,10 @@ I've also participated in lots of CTF events, mostly focused in categories like 
 
 🔒 **My goal** is to continue pushing the boundaries in **cybersecurity** and contribute to safer systems worldwide.
 
----
+
 
 # Projects
----
+
 ### 🐄 [Exploited Dirty COW (CVE-2016-5195)](https://github.com/talsim/root-dirtyc0w)
 
 * **Privilege escalation vulnerability** in the Linux Kernel 🐧
@@ -25,17 +25,17 @@ I've also participated in lots of CTF events, mostly focused in categories like 
 
 * Successfully crafted a PoC that exploits a race-condition in the kernel to achieve **root access**.
 
----
+
 ### 🔑 [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
 * Used **Windows Hooking API** to log keystrokes 📃
 * Implemented persistence through Windows Registry modifications 🗝️
 
----
+
 ### 🖥️ [Implemented Linux shell](https://github.com/talsim/Linux-Shell)
 * Custom-built shell in **C**.
 * A deep dive into **Linux Internals**.
 
----
+
 ### 🔢 [HashMap & LinkedList in C/C++](https://github.com/talsim/c-linked-list)
 - Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management.
 
