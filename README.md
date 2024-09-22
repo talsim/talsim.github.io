@@ -1,4 +1,4 @@
-# 🧑‍💻 About Me
+# About Me 🧑‍💻
 
 Hey there! I'm **Tal Simhayev** 👋
 
@@ -14,8 +14,11 @@ My goal is to continue pushing the boundaries in **cybersecurity** and contribut
 # Projects
 
 ### 🐄 [Exploited Dirty COW (CVE-2016-5195)](https://github.com/talsim/root-dirtyc0w)
+
 * Privilege escalation vulnerability in the Linux Kernel 🐧
+
 * **Tools Used:** C, Linux Kernel
+
 * Successfully crafted a PoC that exploits the vulnerability to achieve **root access**.
 
 ### 🔑 [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
@@ -31,11 +34,20 @@ My goal is to continue pushing the boundaries in **cybersecurity** and contribut
 [HashMap](https://github.com/talsim/c-linked-list) and [LinkedList](https://github.com/talsim/Cpp-HashMap) implementations in C/C++
 
 # CTF Write-ups & Blogs
-I document all my CTF Experience [here](https://github.com/talsim/CTFs). There, I've gained hands-on experience in reverse engineering, binary exploitation, and vulnerability discovery.  
-### [pingCTF 2023 dangle-me pwn challenge write-up](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me)
+I document all my CTF Experience [here](https://github.com/talsim/CTFs).   There, I've gained hands-on experience in reverse engineering, binary exploitation, and vulnerability discovery.  
+### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me)
+
 * Developed a working exploit for a memory corruption vulnerability
 
-### I uploaded a blog to Medium: [ROP Emporium write4 - By Tal Simhayev](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec) - Manipulating gadgets to construct an arbitrary write (write-what-where condition) to process memory.
+* Focused on **stack-based buffer overflows** and **Return Oriented Programming (ROP)** techniques
+
+* Bypassed **PIE Mitigation** by **leaking addresses** from process memory
+
+### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
+
+* Crafted an **arbitrary write exploit** (write-what-where condition) to **inject data** to memory and bypass **DEP protection mechanism**
+
+* Published on Medium, it showcases **how to chain ROP gadgets** effectively.
  
 # Contact
 
