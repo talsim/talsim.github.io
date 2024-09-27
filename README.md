@@ -9,10 +9,10 @@ I'm a passionate Security Researcher focused on:
 
 I've been programming since age 10, and over the years, I’ve developed a strong understanding of **Linux internals**, **binary exploitation** and **exploit development**.  
 
-I've also participated in lots of CTF events, mostly focused in categories like **binary exploitation** and **reverse engineering**. In these challenges I acquired hands-on experience and abilities to think critically under pressure, developing exploits that bypass modern defenses like **ASLR**, **DEP**, and **PIE**.  
+I've also participated in lots of **CTF** events with my [team](https://github.com/C0d3-Bre4k3rs), primarily focused in categories like **binary exploitation** and **reverse engineering**.  
+These challenges helped me gain hands-on experience while collaborating with my team under pressure to bypass modern defenses like **ASLR**, **DEP**, and **PIE**.
 
 🔒 **My goal** is to continue pushing the boundaries in **cybersecurity** and contribute to safer systems worldwide.
-
 
 
 # Projects
@@ -42,14 +42,17 @@ I've also participated in lots of CTF events, mostly focused in categories like 
 
 
 # CTF Write-ups & Blogs
-I document all my CTF Experience [here](https://github.com/talsim/CTFs).   There, I've gained hands-on experience in reverse engineering, binary exploitation, and vulnerability discovery.  
-### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me)
+I document my CTF Experience [here](https://github.com/talsim/CTFs).   
+There, I've gained hands-on experience in reverse engineering, binary exploitation, and vulnerability discovery.  
+### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
 
 * Developed a working exploit for a memory corruption vulnerability
 
 * Focused on **stack-based buffer overflows** and **Return Oriented Programming (ROP)** techniques
 
 * Bypassed **PIE Mitigation** by **leaking addresses** from process memory
+  
+* Also featured on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
