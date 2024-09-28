@@ -5,7 +5,7 @@ Hey there! I'm **Tal Simhayev** 👋
 I'm a passionate Security Researcher focused on:
 * **Reverse engineering**, exploit development, and vulnerability discovery 🔍
 * Low-level system programming using **C/C++**, and **Python** 💻
-* **Tools:** Ghidra, **IDA Pro**, Radare2, pwntools, and x86/x64 Assembly 🛠️
+* **Tools:** Ghidra, **IDA Pro**, Radare2, **GDB**, pwntools, and x86/x64 Assembly 🛠️
 
 I've been programming since age 10, and over the years, I’ve developed a strong understanding of **Linux internals**, **binary exploitation** and **exploit development**.  
 
@@ -38,12 +38,11 @@ These challenges helped me gain hands-on experience while collaborating with my 
 
 ### 🔢 [HashMap](https://github.com/talsim/Cpp-HashMap) & [LinkedList](https://github.com/talsim/c-linked-list) in C/C++
 
-* Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management.
-
+* Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management (Used when I implemented a shell in Linux).
 
 # CTF Write-ups & Blogs
-I document my CTF Experience [here](https://github.com/talsim/CTFs).   
-There, I've gained hands-on experience in reverse engineering, binary exploitation, and vulnerability discovery.  
+I regularly participate in **CTF events** with my team, [C0d3-Bre4k3rs](https://github.com/C0d3-Bre4k3rs), where I focus on **binary exploitation** and **reverse engineering**.  
+I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are some of my notable write-ups:
 ### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
 
 * Developed a working exploit for a memory corruption vulnerability
@@ -60,6 +59,10 @@ There, I've gained hands-on experience in reverse engineering, binary exploitati
 
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
  
-# Contact
+# 📧 Contact & Resume
 
-You can contact me at [talsimhayev@gmail.com](mailto:talsimhayev@gmail.com).
+You can download my **CV [here](/assets/Tal-Simhayev-CV.pdf)** for a detailed overview of my experience, or contact me via email at **[talsimhayev@gmail.com](mailto:talsimhayev@gmail.com)**.  
+
+Feel free to connect with me on:
+* **GitHub**: [github.com/talsim](https://github.com/talsim)
+* **LinkedIn**: [in/talsim](https://linkedin.com/in/talsim)
