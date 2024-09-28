@@ -61,7 +61,7 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
  
 # 📧 Contact & Resume
 
-You can download my **CV [here](/assets/Tal-Simhayev-CV.pdf)** for a detailed overview of my experience, or contact me via email at **[talsimhayev@gmail.com](mailto:talsimhayev@gmail.com)**.  
+You can download my **CV [here](/assets/resume/Tal-Simhayev-CV.pdf)** for a detailed overview of my experience, or contact me via email at **[talsimhayev@gmail.com](mailto:talsimhayev@gmail.com)**.  
 
 Feel free to connect with me on:
 * **GitHub**: [github.com/talsim](https://github.com/talsim)
