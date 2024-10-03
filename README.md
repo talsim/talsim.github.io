@@ -37,14 +37,12 @@ These challenges helped me gain hands-on experience while collaborating with my 
 
 
 ### 🔢 [HashMap](https://github.com/talsim/Cpp-HashMap) & [LinkedList](https://github.com/talsim/c-linked-list) in C/C++
-
 * Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management (Used when I implemented a shell in Linux).
 
 # CTF Write-ups & Blogs
 I regularly participate in **CTF events** with my team, [C0d3-Bre4k3rs](https://github.com/C0d3-Bre4k3rs), where I focus on **binary exploitation** and **reverse engineering**.  
 I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are some of my notable write-ups:
 ### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
-
 * Developed a working exploit for a memory corruption vulnerability
 
 * Focused on **stack-based buffer overflows** and **Return Oriented Programming (ROP)** techniques
@@ -53,16 +51,20 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
   
 * Also featured on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
+![](assets/gifs/dangle-me.gif)
+
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
 * Crafted an **arbitrary write exploit** (write-what-where condition) to **inject data** to memory and bypass **DEP** protection mechanism
 
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
+
+![](assets/gifs/write4.gif)
  
 # 📧 Contact & Resume
 
-You can download my **CV [here](/assets/resume/Tal-Simhayev-CV.pdf)** for a detailed overview of my experience, or contact me via email at **[talsimhayev@gmail.com](mailto:talsimhayev@gmail.com)**.  
+You can download my **CV [here](/assets/resume/Tal-Simhayev-CV.pdf)** for a detailed overview of my experience, or contact me via email at **[talsimhayev@gmail.com](mailto:talsimhayev@gmail.com)**.
 
-Feel free to connect with me on:
-* **GitHub**: [github.com/talsim](https://github.com/talsim)
-* **LinkedIn**: [in/talsim](https://linkedin.com/in/talsim)
+Feel free to connect with me on:  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/talsim)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/talsim)
