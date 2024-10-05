@@ -64,9 +64,12 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
 
 <div align="center">
-  <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" width="70%">
-  <p><em>ROP Emporium write4 PoC demo</em></p>
+  <div style="border: 1px solid #ccc; padding: 2px; display: inline-block;">
+    <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF">
+  </div>
+  <p style="margin-top: 5px;"><em>pingCTF 2023 dangle-me PoC demo</em></p>
 </div>
+
  
 # 📧 Contact & Resume
 
