@@ -51,10 +51,11 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
   
 * Check out the exploit on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
-<div align="center" style="border: 2px solid #ccc; padding: 10px;">
-  <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="90%" style="border: 1px solid #ccc;">
+<div align="center" style="border: 1px solid #ccc; padding: 2px; display: inline-block;">
+  <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF">
   <p><em>pingCTF 2023 dangle-me PoC demo</em></p>
 </div>
+
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
