@@ -49,9 +49,12 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 
 * Bypassed **PIE Mitigation** by **leaking addresses** from process memory
   
-* Also featured on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
+* Check out the exploit on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
-![](assets/gifs/dangle-me.gif)
+<div align="center">
+  <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="70%">
+  <p><em>pingCTF 2023 dangle-me PoC demo</em></p>
+</div>
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
@@ -59,7 +62,10 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
 
-![](assets/gifs/write4.gif)
+<div align="center">
+  <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" width="70%">
+  <p><em>write4 PoC demo</em></p>
+</div>1
  
 # 📧 Contact & Resume
 
