@@ -53,7 +53,7 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 
 <div align="center">
   <div style="border: 1.5px solid #ccc; display: inline-block; padding: 4px;">
-    <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="1500px" style="display: block; border: none;">
+    <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="3000px" style="display: block; border: none;">
   </div>
   <p style="margin-top: 5px;"><em>pingCTF 2023 dangle-me PoC demo</em></p>
 </div>
@@ -66,7 +66,7 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 
 <div align="center">
   <div style="border: 1.5px solid #ccc; display: inline-block; padding: 4px;">
-    <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" width="1500px" style="display: block; border: none;">
+    <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" style="display: block; border: none;">
   </div>
   <p style="margin-top: 5px;"><em>ROP Emporium write4 PoC demo</em></p>
 </div>
