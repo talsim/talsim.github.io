@@ -51,11 +51,12 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
   
 * Check out the exploit on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
-<div align="center" style="border: 1px solid #ccc; padding: 2px; display: inline-block;">
-  <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF">
-  <p><em>pingCTF 2023 dangle-me PoC demo</em></p>
+<div align="center">
+  <div style="border: 1px solid #ccc; display: inline-block; padding: 0;">
+    <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" style="display: block; border: none;">
+  </div>
+  <p style="margin-top: 5px;"><em>pingCTF 2023 dangle-me PoC demo</em></p>
 </div>
-
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
@@ -64,10 +65,8 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
 
 <div align="center">
-  <div style="border: 1px solid #ccc; padding: 2px; display: inline-block;">
-    <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF">
-  </div>
-  <p style="margin-top: 5px;"><em>pingCTF 2023 dangle-me PoC demo</em></p>
+  <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" width="70%">
+  <p><em>ROP Emporium write4 PoC demo</em></p>
 </div>
 
  
