@@ -51,8 +51,8 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
   
 * Check out the exploit on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
-<div align="center">
-  <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="70%">
+<div align="center" style="border: 2px solid #ccc; padding: 10px;">
+  <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="90%" style="border: 1px solid #ccc;">
   <p><em>pingCTF 2023 dangle-me PoC demo</em></p>
 </div>
 
