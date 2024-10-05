@@ -64,7 +64,7 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 
 <div align="center">
   <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" width="70%">
-  <p><em>write4 PoC demo</em></p>
+  <p><em>ROP Emporium write4 PoC demo</em></p>
 </div>
  
 # 📧 Contact & Resume
