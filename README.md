@@ -26,10 +26,10 @@ These challenges helped me gain hands-on experience while collaborating with my 
 * Successfully crafted a PoC that exploits a race-condition in the kernel to achieve **root access**.
 
 <div align="center">
-  <div style="border: 2px solid #ccc; display: inline-block; padding: 4px;">
+  <div style="border: 2px solid #ccc; display: inline-block; padding: 6px;">
     <img src="/assets/gifs/root-dirtyc0w.gif" alt="root-dirtyc0w PoC GIF" style="display: block; border: none;">
   </div>
-  <p style="margin-top: 5px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
+  <p style="margin-top: 6px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
 </div>
 
 ### 🔑 [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
@@ -58,10 +58,10 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 * Check out the exploit on [Github](https://github.com/talsim/CTFs/tree/main/pingCTF-2023/dangle_me).
 
 <div align="center">
-  <div style="border: 1.5px solid #ccc; display: inline-block; padding: 4px;">
+  <div style="border: 2px solid #ccc; display: inline-block; padding: 6px;">
     <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="3000px" style="display: block; border: none;">
   </div>
-  <p style="margin-top: 5px;"><em>pingCTF 2023 dangle-me PoC</em></p>
+  <p style="margin-top: 6px;"><em>pingCTF 2023 dangle-me PoC</em></p>
 </div>
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
@@ -71,10 +71,10 @@ I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are s
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
 
 <div align="center">
-  <div style="border: 1.5px solid #ccc; display: inline-block; padding: 4px;">
+  <div style="border: 2px solid #ccc; display: inline-block; padding: 6px;">
     <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" style="display: block; border: none;">
   </div>
-  <p style="margin-top: 5px;"><em>ROP Emporium write4 PoC</em></p>
+  <p style="margin-top: 6px;"><em>ROP Emporium write4 PoC</em></p>
 </div>
  
 # 📧 Contact & Resume
