@@ -26,7 +26,7 @@ These challenges helped me gain hands-on experience while collaborating with my 
 * Successfully crafted a PoC that exploits a race-condition in the kernel to achieve **root access**.
 
 <div align="center">
-  <div style="border: 1.5px solid #ccc; display: inline-block; padding: 4px;">
+  <div style="border: 1.8px solid #ccc; display: inline-block; padding: 4px;">
     <img src="/assets/gifs/root-dirtyc0w.gif" alt="root-dirtyc0w PoC GIF" style="display: block; border: none;">
   </div>
   <p style="margin-top: 5px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
