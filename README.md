@@ -32,6 +32,11 @@ These challenges helped me gain hands-on experience while collaborating with my 
   <p style="margin-top: 6px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
 </div>
 
+### 🐴[CloakRAT](https://gitHub.com/talsim/CloakRAT) (Work in Progress)
+* **CloakRAT** is a **Remote Access Trojan (RAT)** written in C++.
+
+
+
 ### 🔑 [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
 * Used **Windows Hooking API** to log keystrokes 📃
 * Implemented persistence through Windows Registry modifications 🗝️
