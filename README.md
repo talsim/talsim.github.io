@@ -32,8 +32,11 @@ These challenges helped me gain hands-on experience while collaborating with my 
   <p style="margin-top: 6px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
 </div>
 
-### 🐴 [CloakRAT](https://gitHub.com/talsim/CloakRAT) (Work in Progress)
-* **CloakRAT** is a **Remote Access Trojan (RAT)** written in C++.
+### 🐴 [CloakRAT(Remote Access Trojan)](https://gitHub.com/talsim/CloakRAT) (Work in Progress)  
+CloakRAT is a Remote Access Trojan written in C++.
+* **Evades AV detection** and maintains persistence on the target machine.
+* Injects itself to processes using **DLL Injection**.
+* Implements **anti-debugging** techniques.
 
 
 ### 🔑 [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
@@ -51,7 +54,7 @@ These challenges helped me gain hands-on experience while collaborating with my 
 
 # CTF Write-ups & Blogs
 I regularly participate in **CTF events** with my team, [C0d3-Bre4k3rs](https://github.com/C0d3-Bre4k3rs), where I focus on **binary exploitation** and **reverse engineering**.  
-I document my CTF Experience [here](https://github.com/talsim/CTFs). Below are some of my notable write-ups:
+Below are some of my notable write-ups:
 ### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
 * Developed a working exploit for a memory corruption vulnerability
 
