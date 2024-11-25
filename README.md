@@ -32,8 +32,8 @@ These challenges helped me gain hands-on experience while collaborating with my 
   <p style="margin-top: 6px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
 </div>
 
-### 🐴 [CloakRAT (Remote Access Trojan)](https://gitHub.com/talsim/CloakRAT) (Work in Progress)  
-CloakRAT is a Remote Access Trojan written in C++.
+### 🐴 [CloakRAT (Remote Access Trojan)](https://gitHub.com/talsim/CloakRAT) (Work in Progress)
+CloakRAT is a **Remote Access Trojan** written in **C++**.
 * **Evades AV detection** and maintains persistence on the target machine.
 * Injects itself to processes using **DLL Injection**.
 * Implements **anti-debugging** techniques.
