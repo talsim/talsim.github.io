@@ -2,7 +2,7 @@
 
 Hey there! I'm **Tal Simhayev** 👋
 
-I'm a passionate Security Researcher focused on:
+I'm an autodidact and a passionate Security Researcher focused on:
 * **Reverse engineering**, exploit development, and vulnerability discovery 🔍
 * Low-level system programming using **C/C++**, and **Python** 💻
 * **Tools:** Ghidra, **IDA Pro**, Radare2, **GDB**, pwntools, and x86/x64 Assembly 🛠️
@@ -55,6 +55,11 @@ These challenges helped me gain hands-on experience while collaborating with my 
 # CTF Write-ups & Blogs
 I regularly participate in **CTF events** with my team, [C0d3-Bre4k3rs](https://github.com/C0d3-Bre4k3rs), where I focus on **binary exploitation** and **reverse engineering**.  
 Below are some of my notable write-ups:
+
+### 🔎 [Flare-On 2024 Write-ups](https://github.com/talsim/CTFs/tree/main/Flareon-2024)
+* Documented solutions for **4 challenges** from the Flare-On 2024 CTF.
+* Focused on **reverse engineering** and **binary analysis** techniques.
+
 ### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
 * Developed a working exploit for a memory corruption vulnerability
 
