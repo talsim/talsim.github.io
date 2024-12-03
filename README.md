@@ -2,7 +2,7 @@
 
 Hey there! I'm **Tal Simhayev** 👋
 
-I'm an autodidact and a passionate Security Researcher focused on:
+I'm a passionate and self-taught Security Researcher with a focus on:
 * **Reverse engineering**, exploit development, and vulnerability discovery 🔍
 * Low-level system programming using **C/C++**, and **Python** 💻
 * **Tools:** Ghidra, **IDA Pro**, Radare2, **GDB**, pwntools, and x86/x64 Assembly 🛠️
