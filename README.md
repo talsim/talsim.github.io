@@ -58,6 +58,7 @@ Below are some of my notable write-ups:
 
 ### 🔎 [Flare-On 2024 Write-ups](https://github.com/talsim/CTFs/tree/main/Flareon-2024)
 * Documented solutions for **4 challenges** from the Flare-On 2024 CTF.
+  
 * Focused on **reverse engineering** and **binary analysis** techniques.
 
 ### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
