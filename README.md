@@ -2,18 +2,15 @@
 
 Hey there! I'm **Tal Simhayev** 👋
 
-I'm a passionate and self-taught Security Researcher with a focus on:
+I'm a self-taught Security Researcher with a focus on:
 * **Reverse engineering**, exploit development, and vulnerability discovery 🔍
 * Low-level system programming using **C/C++**, and **Python** 💻
 * **Tools:** Ghidra, **IDA Pro**, Radare2, **GDB**, pwntools, and x86/x64 Assembly 🛠️
 
 I've been programming since age 10, and over the years, I’ve developed a strong understanding of **Linux internals**, **binary exploitation** and **exploit development**.  
 
-I've also participated in lots of **CTF** events with my [team](https://github.com/C0d3-Bre4k3rs), primarily focused in categories like **binary exploitation** and **reverse engineering**.  
-These challenges helped me gain hands-on experience while collaborating with my team under pressure to bypass modern defenses like **ASLR**, **DEP**, and **PIE**.
-
-🔒 **My goal** is to continue pushing the boundaries in **cybersecurity** and contribute to safer systems worldwide.
-
+I've also participated in **CTF** events with my [team](https://github.com/C0d3-Bre4k3rs), primarily focused in categories like **binary exploitation** and **reverse engineering** (Scored **18th place** in pingCTF-2023 - See below).  
+In these challenges I collaborated with my team under pressure to bypass modern defenses like **ASLR**, **DEP**, and **PIE**.
 
 # Projects
 
