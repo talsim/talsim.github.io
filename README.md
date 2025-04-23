@@ -87,9 +87,7 @@ Below are some of my notable write-ups:
   <p style="margin-top: 6px;"><em>ROP Emporium write4 PoC</em></p>
 </div>
  
-# 📧 Contact & Resume
-
-You can download my **CV [here](/assets/resume/Tal-Simhayev-CV.pdf)** for a detailed overview of my experience, or contact me via email at **[talsimhayev@gmail.com](mailto:talsimhayev@gmail.com)**.
+# 📧 Contact
 
 Feel free to connect with me on:  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/talsim)  
