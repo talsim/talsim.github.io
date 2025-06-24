@@ -7,6 +7,8 @@ In these challenges I collaborated with my team under pressure to bypass modern 
 
 # Projects
 
+### Printdemon
+
 ### 🐄 [Exploited Dirty COW (CVE-2016-5195)](https://github.com/talsim/root-dirtyc0w)
 
 * **Privilege escalation vulnerability** in the Linux Kernel 🐧
@@ -22,11 +24,11 @@ In these challenges I collaborated with my team under pressure to bypass modern 
   <p style="margin-top: 6px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
 </div>
 
-### 🐴 [CloakRAT](https://gitHub.com/talsim/CloakRAT) (Work in Progress)
-* **Remote Access Trojan (RAT)** written in **C++**.
-* **Evades AV detection** and maintains **persistence** on the target machine.
+### 🐴 [CloakRAT](https://gitHub.com/talsim/CloakRAT)
+* **Remote Access Trojan (RAT)** written in **C/C++**.
+* **Evades AV detection** from Windows Defender.
 * Injects itself to processes using **DLL Injection**.
-* Implements **anti-debugging** techniques and **C2 Communication**.
+* Implements **anti-debugging** techniques, **junk code** obfuscation, PEB Walk and **C2 Communication**.
 
 
 ### 🔑 [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
@@ -43,8 +45,8 @@ In these challenges I collaborated with my team under pressure to bypass modern 
 * Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management (Used when I implemented a shell in Linux).
 
 # CTF Write-ups & Blogs
-I regularly participate in **CTF events** with my team, [C0d3-Bre4k3rs](https://github.com/C0d3-Bre4k3rs), where I focus on **binary exploitation** and **reverse engineering**.  
-Below are some of my notable write-ups:
+I regularly participate in **CTF events** with my team, [C0d3-Bre4k3rs](https://github.com/C0d3-Bre4k3rs), focusing on **binary exploitation** and **reverse engineering**.  
+Below are some of my write-ups:
 
 ### 🔎 [Flare-On 2024 Write-ups](https://github.com/talsim/CTFs/tree/main/Flareon-2024)
 * Documented solutions for **4 challenges** from the Flare-On 2024 CTF.
@@ -69,7 +71,7 @@ Below are some of my notable write-ups:
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
-* Crafted an **arbitrary write exploit** (write-what-where condition) to **inject data** to memory and bypass **DEP** protection mechanism
+* Crafted an **arbitrary write exploit** (write-what-where condition) to **inject data** to memory and bypass **DEP** protection
 
 * Published on Medium, it showcases **how to chain ROP gadgets** effectively.
 
