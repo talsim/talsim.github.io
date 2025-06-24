@@ -9,7 +9,6 @@ In these challenges I collaborated with my team under pressure to bypass modern 
 
 ### 😈 [Exploited PrintDemon (CVE-2020-1048)](https://github.com/talsim/printDemon2system)
 * **Privilege escalation to SYSTEM** via a Windows Print Spooler logic vulnerability
-
 * Overwrites **PrintConfig.dll** through a crafted *print-to-file* job, then starts an XPS print to load the DLL and spawn a SYSTEM shell.  
 
 <div align="center">
