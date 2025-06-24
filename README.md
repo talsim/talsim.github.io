@@ -7,7 +7,17 @@ In these challenges I collaborated with my team under pressure to bypass modern 
 
 # Projects
 
-### Printdemon
+### 😈 [Exploited PrintDemon (CVE-2020-1048)](https://github.com/talsim/printDemon2system)
+* **Privilege escalation to SYSTEM** via a Windows Print Spooler logic vulnerability
+
+* Overwrites **PrintConfig.dll** through a crafted *print-to-file* job, then starts an XPS print to load the DLL and spawn a SYSTEM shell.  
+
+<div align="center">
+  <div style="border: 1.5px solid #ccc; display: inline-block; padding: 4px;">
+    <img src="/assets/gifs/printDemon2system.gif" alt="printDemon2system Exploit" width = 100% style="display: block; border: none;">
+  </div>
+  <p style="margin-top: 5px;"><em>Exploiting PrintDemon for Privilege Escalation (CVE-2020-1048)</em></p>
+</div>
 
 ### 🐄 [Exploited Dirty COW (CVE-2016-5195)](https://github.com/talsim/root-dirtyc0w)
 
@@ -15,13 +25,13 @@ In these challenges I collaborated with my team under pressure to bypass modern 
 
 * **Tools Used:** C, Linux Kernel
 
-* Successfully crafted a PoC that exploits a race-condition in the kernel to achieve **root access**.
+* Successfully crafted an exploit to a race-condition in the kernel to achieve **root access**.
 
 <div align="center">
   <div style="border: 2px solid #ccc; display: inline-block; padding: 6px;">
-    <img src="/assets/gifs/root-dirtyc0w.gif" alt="root-dirtyc0w PoC GIF" style="display: block; border: none;">
+    <img src="/assets/gifs/root-dirtyc0w.gif" alt="root-dirtyc0w GIF" style="display: block; border: none;">
   </div>
-  <p style="margin-top: 6px;"><em>Privilege Escalation PoC: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
+  <p style="margin-top: 6px;"><em>Privilege Escalation exploit: Exploiting Dirty COW for Root Access (CVE-2016-5195)</em></p>
 </div>
 
 ### 🐴 [CloakRAT](https://gitHub.com/talsim/CloakRAT)
@@ -66,7 +76,7 @@ Below are some of my write-ups:
   <div style="border: 2px solid #ccc; display: inline-block; padding: 6px;">
     <img src="/assets/gifs/dangle-me.gif" alt="dangle-me PoC GIF" width="3000px" style="display: block; border: none;">
   </div>
-  <p style="margin-top: 6px;"><em>pingCTF 2023 dangle-me PoC</em></p>
+  <p style="margin-top: 6px;"><em>pingCTF 2023 dangle-me exploit</em></p>
 </div>
 
 ### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
@@ -77,9 +87,9 @@ Below are some of my write-ups:
 
 <div align="center">
   <div style="border: 2px solid #ccc; display: inline-block; padding: 6px;">
-    <img src="/assets/gifs/write4.gif" alt="write4 PoC GIF" style="display: block; border: none;">
+    <img src="/assets/gifs/write4.gif" alt="write4 GIF" style="display: block; border: none;">
   </div>
-  <p style="margin-top: 6px;"><em>ROP Emporium write4 PoC</em></p>
+  <p style="margin-top: 6px;"><em>ROP Emporium write4 exploit</em></p>
 </div>
  
 # 📧 Contact
