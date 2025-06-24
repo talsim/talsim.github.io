@@ -9,14 +9,14 @@ In these challenges I collaborated with my team under pressure to bypass modern 
 
 ### 😈 [Exploited PrintDemon (CVE-2020-1048)](https://github.com/talsim/printDemon2system)
 * **Privilege escalation to SYSTEM** via a Windows Print Spooler logic vulnerability
-* 
+
 * Overwrites **PrintConfig.dll** through a crafted *print-to-file* job, then starts an XPS print to load the DLL and spawn a SYSTEM shell. 
 
 <div align="center">
-  <div style="border: 1.5px solid #ccc; display: inline-block; padding: 4px;">
-    <img src="/assets/gifs/printDemon2system.gif" alt="printDemon2system Exploit" width="100%" style="display: block; border: none;">
+  <div style="border: 2px solid #ccc; display: inline-block; padding: 6px;">
+    <img src="/assets/gifs/printDemon2system.gif" alt="printDemon2system Exploit" style="display: block; border: none;">
   </div>
-  <p style="margin-top: 5px;"><em>Exploiting PrintDemon for Privilege Escalation (CVE-2020-1048)</em></p>
+  <p style="margin-top: 6px;"><em>Exploiting PrintDemon for Privilege Escalation (CVE-2020-1048)</em></p>
 </div>
 
 ### 🐄 [Exploited Dirty COW (CVE-2016-5195)](https://github.com/talsim/root-dirtyc0w)
