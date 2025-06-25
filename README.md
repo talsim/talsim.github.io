@@ -3,7 +3,7 @@
 Hey there! I'm **Tal Simhayev** 👋
 
 I like to participate in **CTF** events with my [team](https://github.com/C0d3-Bre4k3rs), mainly focused in categories like **binary exploitation** and **reverse engineering** (Scored **18th place** in pingCTF-2023 - See below).  
-In these challenges I collaborated with my team under pressure to bypass modern defenses like **ASLR**, **DEP**, and **PIE**.
+In addition, I worked together with my team to bypass modern defenses like **ASLR**, **DEP**, and **PIE**.
 
 # Projects
 
