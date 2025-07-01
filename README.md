@@ -7,7 +7,7 @@ In addition, I worked together with my team to bypass modern defenses like **ASL
 
 # Projects
 
-### 😈 [Exploited PrintDemon (CVE-2020-1048)](https://github.com/talsim/printDemon2system)
+### [Exploited PrintDemon (CVE-2020-1048)](https://github.com/talsim/printDemon2system)
 * **Privilege escalation to SYSTEM** via a Windows Print Spooler logic vulnerability
 
 * Overwrites **PrintConfig.dll** through a crafted *print-to-file* job, then starts an XPS print to load the DLL and spawn a SYSTEM shell. 
@@ -41,29 +41,29 @@ In addition, I worked together with my team to bypass modern defenses like **ASL
 * Implements **anti-debugging** techniques, **junk code** obfuscation, PEB Walk and **C2 Communication**.
 
 
-### 🔑 [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
+### [KeyLogger (C/C++)](https://github.com/talsim/Keylogger)
 * Used **Windows Hooking API** to log keystrokes 📃
 * Implemented persistence through Windows Registry modifications 🗝️
 
 
-### 🖥️ [Implemented Linux shell](https://github.com/talsim/Linux-Shell)
+### [Implemented Linux shell](https://github.com/talsim/Linux-Shell)
 * Custom-built shell in **C**.
 * A deep dive into **Linux Internals**.
 
 
-### 🔢 [HashMap](https://github.com/talsim/Cpp-HashMap) & [LinkedList](https://github.com/talsim/c-linked-list) in C/C++
+### [HashMap](https://github.com/talsim/Cpp-HashMap) & [LinkedList](https://github.com/talsim/c-linked-list) in C/C++
 * Implemented core data structures like **HashMap** and **LinkedList** in C/C++ for efficiency and memory management (Used when I implemented a shell in Linux).
 
 # CTF Write-ups & Blogs
 I regularly participate in **CTF events** with my team, [C0d3-Bre4k3rs](https://github.com/C0d3-Bre4k3rs), focusing on **binary exploitation** and **reverse engineering**.  
 Below are some of my write-ups:
 
-### 🔎 [Flare-On 2024 Write-ups](https://github.com/talsim/CTFs/tree/main/Flareon-2024)
+### [Flare-On 2024 Write-ups](https://github.com/talsim/CTFs/tree/main/Flareon-2024)
 * Documented solutions for **4 challenges** from the Flare-On 2024 CTF.
   
 * Focused on **reverse engineering** and **binary analysis** techniques.
 
-### 🛠️ [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
+### [pingCTF 2023 dangle-me pwn challenge write-up](https://ctftime.org/writeup/38337)
 * Developed a working exploit for a memory corruption vulnerability
 
 * Focused on **stack-based buffer overflows** and **Return Oriented Programming (ROP)** techniques
@@ -79,7 +79,7 @@ Below are some of my write-ups:
   <p style="margin-top: 6px;"><em>pingCTF 2023 dangle-me exploit</em></p>
 </div>
 
-### 📝 [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
+### [ROP Emporium write4 - Blog](https://thehackerlife.medium.com/rop-emporium-write4-challenge-writeup-64-bit-updated-2020-742eab2722ec)
 
 * Crafted an **arbitrary write exploit** (write-what-where condition) to **inject data** to memory and bypass **DEP** protection
 
